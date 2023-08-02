@@ -1,0 +1,10 @@
+{
+    "prettier.singleQuote": true,
+    "prettier.singleAttributePerLine": true,
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.withNodeModules": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
